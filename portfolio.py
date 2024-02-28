@@ -26,7 +26,7 @@ def about_page():
     st.write("**🚀 I'm Mangesh Shinde, a passionate AI enthusiast, seeking entry-level opportunities to launch my career in AI and gain experience. Here's a brief summary of who I am and what I do.**")
 
      #Display profile picture
-    st.image("/content/PROFILE IMAGE.jpg", width=200)
+    st.image("PROFILE IMAGE.jpg", width=200)
     st.header("📝Summary")
     st.write("**I'm a passionate AI Engineer with a strong enthusiasm for artificial intelligence and its potential to drive transformation. As a recent postgraduate, I'm eager to kickstart my AI career, combining my academic foundation and hands-on experience to contribute to groundbreaking projects**.")
 
