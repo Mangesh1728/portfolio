@@ -124,7 +124,7 @@ def projects_page():
         },
         {
             "name": "Ten-Year CHD Risk Prediction",
-            "description": "This Streamlit web app predicts Ten-Year CHD Risk using a Logistic Regression model, providing personalized risk assessments based on user input.",
+            "description": "This Streamlit web app predicts Ten-Year CHD (CHD = Cardiovascular_Disease_Prediction) Risk using a Logistic Regression model, providing personalized risk assessments based on user input.",
             "website": "https://cardiovasculardiseaseprediction-2lv5guavdhj3ggrqeuzygz.streamlit.app/",
             "link": "https://github.com/Mangesh1728/Cardiovascular_Disease_Prediction"
         },
