@@ -98,7 +98,6 @@ def education_section():
     )
 
 # Projects page
-# Projects page
 def projects_page():
     st.title("🛠️Projects")
     st.write("Check out some of my projects below:")
@@ -109,27 +108,34 @@ def projects_page():
             "name": "Image Background Remover",
             "dates": "[12/01/2024 - 5/02/2024]",
             "description": "The 'Image Background Remover' web app allows users to easily remove backgrounds from images, customize them with colors or other images, and download the edited versions. It offers a user-friendly interface with options to upload images, adjust settings, and personalize edits.",
-            "website": "https://bgremover-shinde-2azhnr9agjg6bwrjs7lrnp.streamlit.app/"
+            "website": "https://bgremover-shinde-2azhnr9agjg6bwrjs7lrnp.streamlit.app/",
+            "link": "https://github.com/Mangesh1728/BGremover"   
         },
         {
             "name": "DeepVerify360: Guardian of Truth in Video Realms",
             "dates": "[01/01/2024 – 30/01/2024]",
             "description": "DeepVerify360 employs advanced AI and forensic analysis to authenticate video content, offering real-time monitoring and seamless integration to combat misinformation and uphold truth in digital realms.",
-            "website": "Streamlit (deepverify360-guardian-of-truth-in-video-realms-fuzkrwrhwkgwgc.streamlit.app)",
+            "website": "https://deepverify360-guardian-of-truth-in-video-realms-fuzkrwrhwkgwgc.streamlit.app/",
             "link": "https://github.com/Mangesh1728/DeepVerify360-Guardian-of-Truth-in-Video-Realms.git"
         },
         {
             "name": "CAR PRICE PREDICTION",
             "dates": "[01/11/2023 – 30/12/2023]",
             "description": "Developed a Streamlit web app for car price prediction using machine learning. The app employs a trained model to forecast accurate car prices based on relevant features, enhancing user decision-making.",
-            "website": "Streamlit (car-price-prediction-webapp-iznm55nthowaxwgdzvbeqq.streamlit.app)",
+            "website": "https://car-price-prediction-webapp-iznm55nthowaxwgdzvbeqq.streamlit.app/",
             "link": "https://github.com/Mangesh1728/car-price-prediction-app.git"
         },
         {
-            "name": "HEART DISEASES DIAGNOSTIC ANALYSIS",
-            "dates": "[12/03/2023 – 17/04/2023]",
-            "description": "Develop a heart disease diagnostic analysis using machine learning techniques to predict the likelihood of heart diseases based on patient data. Utilize a dataset of clinical parameters such as age, cholesterol levels, and blood pressure to build an accurate predictive model. The system aims to assist healthcare professionals in early detection and intervention for better patient outcomes.",
-            "link": "https://github.com/Mangesh1728/INTERNSHIP-DOCUMENT-HEART-DISEASES-DIAGNOSTIC-ANALYSIS-.git"
+            "name": "Ten-Year CHD Risk Prediction",
+            "description": "This Streamlit web app predicts Ten-Year CHD Risk using a Logistic Regression model, providing personalized risk assessments based on user input.",
+            "website": "https://cardiovasculardiseaseprediction-2lv5guavdhj3ggrqeuzygz.streamlit.app/",
+            "link": "https://github.com/Mangesh1728/Cardiovascular_Disease_Prediction"
+        },
+        {
+            "name": "heart & diabetes disease prediction system",
+            "description": "This Streamlit app predicts diabetes and heart disease using machine learning models, providing instant diagnostic results based on user-provided input. It offers an intuitive interface for easy navigation and data input.",
+            "website": "https://heart-diabetes-disease-prediction-system-vlg8ktgrkxtqk8urhsxhx.streamlit.app/",
+            "link": "https://github.com/Mangesh1728/Heart-Diabetes-Disease-Prediction-System"
         }
     ]
     st.markdown(
