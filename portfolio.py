@@ -117,7 +117,7 @@ def projects_page():
             "link": "https://github.com/Mangesh1728/DeepVerify360-Guardian-of-Truth-in-Video-Realms.git"
         },
         {
-            "name": "CAR PRICE PREDICTION",
+            "name": "Car Price Predictions",
             "description": "Developed a Streamlit web app for car price prediction using machine learning. The app employs a trained model to forecast accurate car prices based on relevant features, enhancing user decision-making.",
             "website": "https://car-price-prediction-webapp-iznm55nthowaxwgdzvbeqq.streamlit.app/",
             "link": "https://github.com/Mangesh1728/car-price-prediction-app.git"
@@ -129,7 +129,7 @@ def projects_page():
             "link": "https://github.com/Mangesh1728/Cardiovascular_Disease_Prediction"
         },
         {
-            "name": "heart & diabetes disease prediction system",
+            "name": "Heart & Diabetes Disease Prediction System",
             "description": "This Streamlit app predicts diabetes and heart disease using machine learning models, providing instant diagnostic results based on user-provided input. It offers an intuitive interface for easy navigation and data input.",
             "website": "https://heart-diabetes-disease-prediction-system-vlg8ktgrkxtqk8urhsxhx.streamlit.app/",
             "link": "https://github.com/Mangesh1728/Heart-Diabetes-Disease-Prediction-System"
